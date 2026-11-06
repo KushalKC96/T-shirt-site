@@ -1,0 +1,27 @@
+- generic [ref=e4]:
+  - generic [ref=e5]:
+    - text: The most saved components of the day
+    - heading "A clothing rail you can handle, right on the page." [level=1] [ref=e6]
+    - paragraph [ref=e7]: Brush along the rail, slide a hanger, lift a piece to see the back.
+  - generic [ref=e9]:
+    - region "Clothing rail" [ref=e10]:
+      - generic [ref=e11]:
+        - button "Classic Tee · White, $48" [ref=e12]:
+          - generic [ref=e13]: $48
+          - text: Classic Tee · White
+        - button "Merino Wool Knit · Navy, $96" [ref=e111]:
+          - generic [ref=e112]: $96
+          - text: Merino Wool Knit · Navy
+        - button "Heavyweight Hoodie · Sage, $88" [ref=e208]:
+          - generic [ref=e209]: $88
+          - text: Heavyweight Hoodie · Sage
+        - button "Oxford Shirt · Blue, $78" [ref=e317]:
+          - generic [ref=e318]: $78
+          - text: Oxford Shirt · Blue
+        - button "Utility Jacket · Olive, $145" [ref=e437]:
+          - generic [ref=e438]: $145
+          - text: Utility Jacket · Olive
+        - button "Wool Trench Coat · Camel, $220" [ref=e549]:
+          - generic [ref=e550]: $220
+          - text: Wool Trench Coat · Camel
+    - generic [ref=e649]: Click or drag to browse the rail.

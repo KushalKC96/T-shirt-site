@@ -1,0 +1,24 @@
+- generic [ref=e4]:
+  - heading "Interactive Clothing Rail" [level=1] [ref=e5]
+  - generic [ref=e7]:
+    - region "Clothing rail" [ref=e8]:
+      - generic [ref=e9]:
+        - button "Classic Tee · White, $48" [ref=e10]:
+          - generic [ref=e11]: $48
+          - text: Classic Tee · White
+        - button "Merino Wool Knit · Navy, $96" [ref=e109]:
+          - generic [ref=e110]: $96
+          - text: Merino Wool Knit · Navy
+        - button "Heavyweight Hoodie · Sage, $88" [ref=e206]:
+          - generic [ref=e207]: $88
+          - text: Heavyweight Hoodie · Sage
+        - button "Oxford Cloth Shirt · Blue, $78" [ref=e315]:
+          - generic [ref=e316]: $78
+          - text: Oxford Cloth Shirt · Blue
+        - button "Utility Canvas Jacket · Olive, $145" [ref=e435]:
+          - generic [ref=e436]: $145
+          - text: Utility Canvas Jacket · Olive
+        - button "Wool Trench Coat · Camel, $220" [ref=e547]:
+          - generic [ref=e548]: $220
+          - text: Wool Trench Coat · Camel
+    - generic [ref=e647]: Click or drag any garment on the rail.
